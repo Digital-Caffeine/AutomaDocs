@@ -1,1 +1,5 @@
-site_name: My Docs
+site_name: Automa Docs
+nav:
+    - Home: index.md
+    - Json Modding: json.md
+theme: readthedocs
